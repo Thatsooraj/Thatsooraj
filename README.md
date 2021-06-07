@@ -7,7 +7,7 @@
                                              
 - 👀 I’m interested in Machine Learning and AI.
 
-     *Area Of Expertise** :
+     *Area Of Expertise* :
 
     ⭐ **Python With Data Science**
     Libraries : Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
