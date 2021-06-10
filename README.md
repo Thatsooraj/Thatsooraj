@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  **@Thatsooraj
+- 👋 Hi, I’m  **@Thatsooraj**
 - 🚩 Currently Studying in L.D College Of Engineering, Ahmedabad 
 - 💌 Work Experience: ✔ Exposys Data Labs 
                       ✔ GRIP Sparks Foundation
